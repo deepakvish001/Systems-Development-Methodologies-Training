@@ -1,1 +1,1 @@
-# DevOps-and-MLOps-Training
+# Continuous-Delivery-and-DevOps-Training
